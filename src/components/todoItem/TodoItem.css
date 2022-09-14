@@ -1,0 +1,12 @@
+.todoItem {
+  display: flex;
+  align-items: center;
+}
+
+.todoItem p {
+  font-size: 18px;
+}
+
+.todoItem-done {
+  text-decoration: line-through;
+}

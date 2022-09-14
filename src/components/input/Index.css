@@ -1,0 +1,33 @@
+.input {
+  padding: 6px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.462);
+  min-width: 500px;
+}
+
+.input input {
+  border: none;
+  outline: none;
+  padding: 12px;
+  font-size: 16px;
+  width: 400px;
+}
+
+.input button {
+  border: none;
+  outline: none;
+  background-color: rgb(61, 88, 239);
+  padding: 10px;
+  color: white;
+  font-size: 16px;
+  width: 80px;
+  border-radius: 15px;
+  float: right;
+  transition: 0.3s;
+}
+
+.input button:hover {
+  background-color: rgba(6, 42, 248, 0.856);
+  cursor: pointer;
+}
